@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="active">#33B8DA</color>
+    <color name="recovered">#00C851</color>
+    <color name="deaths">#37474F</color>
+    <color name="backside">#d1c4e9</color>
+    <color name="inverted">#e0e0e0</color>
+    <color name="confirmed">#b71c1c</color>
+    <color name="listTitle">#4a148c</color>
+
+
+    <color name="orage">#FF9100</color>
+
+
+    <color name="listCardBack">#FFFFFF</color>
+
+
+</resources>

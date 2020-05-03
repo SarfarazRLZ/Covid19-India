@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Covid19-India</string>
+    <string name="not_available">Not Available</string>
+    <string name="summary">Summary</string>
+
+    <string name="state">State :</string>
+
+    <string name="active">Active : </string>
+    <string name="confirmed">Confirmed : </string>
+    <string name="deaths">Deaths : </string>
+    <string name="deltaconfirmed">New Confirmed : </string>
+    <string name="deltadeaths">New Deaths : </string>
+    <string name="deltarecovered">New Recovered : </string>
+    <string name="recovered">Recovered : </string>
+    <string name="refresh">Refresh</string>
+    <string name="search_state">Search State</string>
+    <string name="search">Search</string>
+    <string name="_00000">00000</string>
+    <string name="updated">Last Update on :</string>
+    <string name="zone_tage">Zone :</string>
+
+</resources>
